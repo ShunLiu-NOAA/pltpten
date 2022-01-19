@@ -1,0 +1,7 @@
+1. grep forecast pgmout > pten_emc_para
+2. you can get pten from different experiements.
+   there are four experiments in the example script
+   you can modify pltpten.py to change this.
+3. run rpten.sh
+4. it is better that you use the script to plot your figure
+   so that we can easily compare result.

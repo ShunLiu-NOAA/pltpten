@@ -1,4 +1,5 @@
 1. grep forecast pgmout > pten_emc_para
+   pgmout is forecast model output
 2. you can get pten from different experiements.
    there are four experiments in the example script
    you can modify pltpten.py to change this.
